@@ -1,4 +1,4 @@
-setwd("~/Box/Research Projects/NGS Projects and resources/Pacific leatherback rapture project/Dcor_Rapturedata/NEW_RaptureDataAnalysis/All_genotyping_QC_NEWDATA")
+setwd("~/...")
 library(ggplot2)
 library(reshape2)
 

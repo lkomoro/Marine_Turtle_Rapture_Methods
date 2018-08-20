@@ -1,4 +1,4 @@
-setwd("/Users/lkomoroske/Box/Research Projects/NGS Projects and resources/Pacific leatherback rapture project/Dcor_Rapturedata/NEW_RaptureDataAnalysis/NGS_admix_files")
+setwd("/...")
 library(ggplot2)
 library(tidyr)
 library(reshape2)
